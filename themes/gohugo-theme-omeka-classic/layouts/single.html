@@ -1,0 +1,34 @@
+{{ define "main" }}
+    <h1>{{ .Title }}</h1>
+    {{ range sort (.Resources.Match "blocks/*.md") "File.Path" }}
+    {{ with .Params.id }}<div id="{{ . }}" class="element">{{ end }}
+        {{ with .Params.blockHeading }}<h3>{{ . }}</h3>{{ end }}
+        {{ with .Params.id }}<div class="element-text">{{ end }}
+            {{ .Content }}
+        {{ with .Params.id }}</div>{{ end }}
+    {{ with .Params.id }}</div>{{ end }}
+    {{ end }}
+    {{ if eq .Type "collections" }}
+    <div id="collection-items">
+        <h2>Collection Items</h2>
+        {{ range where (where site.RegularPages "Type" "items") ".Params.collectionID" "eq" .Params.collectionID }}
+        {{ $thumbnailResource := false }}
+        {{ if .Params.thumbnailSpec.page }}
+            {{ $thumbnailPage := site.GetPage (.Params.thumbnailSpec.page) }}
+            {{ $thumbnailResource = $thumbnailPage.Resources.GetMatch (printf "%s*" (.Params.thumbnailSpec.resource)) }}
+        {{ else }}
+            {{ $thumbnailResource = resources.Get (.Params.thumbnailSpec.resource) }}
+        {{ end }}
+        <div class="item record">
+            <div class="title">
+                <a href="{{ .RelPermalink }}">
+                    {{ with $thumbnailResource }}<img src="{{ $thumbnailResource.RelPermalink }}">{{ end }}
+                    {{ .Title }}
+                </a>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+    {{ end }}
+    {{ .Content }}
+{{ end }}

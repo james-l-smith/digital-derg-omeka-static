@@ -1,0 +1,34 @@
+{
+    "date": "2019-03-22T10:32:55+00:00",
+    "title": "The impression of Lough Derg on Jenny and Bobby",
+    "draft": false,
+    "params": {
+        "itemID": 256,
+        "collectionID": null,
+        "featured": 0,
+        "description": "Jenny discusses her expectations of the place compared to the reality and hopes that it will not be too commercialized, like Lourdes",
+        "thumbnailSpec": {
+            "page": null,
+            "resource": null
+        },
+        "bodyClasses": [
+            "items show"
+        ]
+    },
+    "tags": [
+        "colour",
+        "commercialism",
+        "foam",
+        "greyness",
+        "impressions",
+        "literature",
+        "motion",
+        "negative description",
+        "Sean O'Faolain",
+        "short stories",
+        "twentieth century",
+        "water",
+        "waves",
+        "weather"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "baseURL": "",
+    "theme": "gohugo-theme-omeka-classic",
+    "title": "Digital Derg: A Deep Map",
+    "pagination": {
+        "pagerSize": 25
+    },
+    "params": {
+        "theme": "default"
+    },
+    "menus": {
+        "main": [
+            {
+                "name": "Browse items",
+                "pageRef": "\/items",
+                "weight": 10
+            },
+            {
+                "name": "Browse collections",
+                "pageRef": "\/collections",
+                "weight": 20
+            },
+            {
+                "name": "Browse tags",
+                "pageRef": "\/tags",
+                "weight": 30
+            }
+        ]
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "date": "2019-04-05T09:09:34+00:00",
+    "title": "Flora of the Lough Fad blanket bog to the south-west of Lough Derg",
+    "draft": false,
+    "params": {
+        "itemID": 321,
+        "collectionID": null,
+        "featured": 0,
+        "description": "The flora of the Lough Fad Bog National Heritage Area (NHA)",
+        "thumbnailSpec": {
+            "page": null,
+            "resource": null
+        },
+        "bodyClasses": [
+            "items show"
+        ]
+    },
+    "tags": [
+        "Bilberry (Vaccinium myrtillus)",
+        "Bog Asphodel (Narthecium ossifragum)",
+        "Bog Pimpernel (Anagallis tenella)",
+        "Bog-myrtle (Myrica gale)",
+        "bogland",
+        "Bottle Sedge (Carex rostrata)",
+        "Broad-leaved Pondweed (Potamogeton natans)",
+        "Carnation Sedge (Carex panicea)",
+        "Common Butterwort (Pinguicula vulgaris)",
+        "Common Cottongrass (Eriophorum angustifolium)",
+        "Crossleaved Heath (Erica tetralix)",
+        "Deergrass (Scirpus cespitosus)",
+        "Devil\u2019s-bit Scabious (Succisa pratensis)",
+        "Hylocomium splendens (moss)",
+        "Jointed Rush (Juncus articulatus)",
+        "Leucobryum glaucum",
+        "Lichens (Cladonia portentosa and C. uncialis)",
+        "Ling Heather (Calluna vulgaris)",
+        "Lough Fad",
+        "Lough Fad Bog NHA",
+        "National Parks and Wildlife Service",
+        "Oblong-leaved Sundew (Drosera intermedia)",
+        "peat",
+        "Purple Moor-grass (Molinia caerulea)",
+        "Racomitrium lanuginosum",
+        "Selfheal (Prunella vulgaris)",
+        "Sphagnum  auriculatum",
+        "Sphagnum capillifolium",
+        "Sphagnum compactum",
+        "Sphagnum imbricatum",
+        "sphagnum moss",
+        "Sphagnum papillosum",
+        "Sphagnum recurvumon",
+        "Sphagnum subnitens",
+        "Star Sedge (Carex echinata)",
+        "swallow hole",
+        "Sweet Vernal-grass (Anthoxanthum odoratum)",
+        "Tormentil (Potentilla erecta)",
+        "Wavy Hair-grass (Deschampsia flexuosa)",
+        "White Beak-sedge (Rhynchospora alba)",
+        "Wild Thyme (Thymus praecox)",
+        "Yorkshire Fog (Holcus lanatus)"
+    ]
+}
