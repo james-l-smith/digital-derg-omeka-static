@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Statue on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/statue/</link>
+		<description>Recent content in Statue on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 14 May 2019 13:08:03 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/statue/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Timeline: 1882</title>
+				<link>//localhost:1313/items/437/</link>
+				<pubDate>Tue, 14 May 2019 13:08:03 +0000</pubDate>
+				<guid>//localhost:1313/items/437/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1891</title>
+				<link>//localhost:1313/items/438/</link>
+				<pubDate>Tue, 14 May 2019 13:08:03 +0000</pubDate>
+				<guid>//localhost:1313/items/438/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

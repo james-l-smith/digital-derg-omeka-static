@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sphagnum Moss on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/sphagnum-moss/</link>
+		<description>Recent content in Sphagnum Moss on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 21 Jun 2019 14:19:34 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/sphagnum-moss/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lough Hill Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/472/</link>
+				<pubDate>Fri, 21 Jun 2019 14:19:34 +0000</pubDate>
+				<guid>//localhost:1313/items/472/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Meenagarranroe Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/471/</link>
+				<pubDate>Fri, 21 Jun 2019 14:10:06 +0000</pubDate>
+				<guid>//localhost:1313/items/471/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cashelnavean Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/470/</link>
+				<pubDate>Fri, 21 Jun 2019 13:59:43 +0000</pubDate>
+				<guid>//localhost:1313/items/470/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Barnesmore Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/469/</link>
+				<pubDate>Wed, 12 Jun 2019 14:54:36 +0000</pubDate>
+				<guid>//localhost:1313/items/469/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Golagh and Breesy Hill Special Area of Conservation</title>
+				<link>//localhost:1313/items/355/</link>
+				<pubDate>Tue, 30 Apr 2019 11:37:20 +0000</pubDate>
+				<guid>//localhost:1313/items/355/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Tamur Bog Special Area of Conservation</title>
+				<link>//localhost:1313/items/354/</link>
+				<pubDate>Tue, 30 Apr 2019 11:28:29 +0000</pubDate>
+				<guid>//localhost:1313/items/354/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Croaghonagh Bog Special Area of Conservation</title>
+				<link>//localhost:1313/items/353/</link>
+				<pubDate>Tue, 30 Apr 2019 11:18:41 +0000</pubDate>
+				<guid>//localhost:1313/items/353/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Nageage Special Area of Conservation</title>
+				<link>//localhost:1313/items/351/</link>
+				<pubDate>Tue, 30 Apr 2019 10:56:24 +0000</pubDate>
+				<guid>//localhost:1313/items/351/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Killeter Forest Bogs and Lakes Area of Special Scientific Interest (ASSI)</title>
+				<link>//localhost:1313/items/339/</link>
+				<pubDate>Fri, 26 Apr 2019 14:27:21 +0000</pubDate>
+				<guid>//localhost:1313/items/339/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flora of the Lough Fad blanket bog to the south-west of Lough Derg</title>
+				<link>//localhost:1313/items/321/</link>
+				<pubDate>Fri, 05 Apr 2019 09:09:34 +0000</pubDate>
+				<guid>//localhost:1313/items/321/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Flora on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/flora/</link>
+		<description>Recent content in Flora on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 15:34:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/flora/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bog Pimpernel</title>
+				<link>//localhost:1313/items/574/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/574/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Hard rush</title>
+				<link>//localhost:1313/items/576/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/576/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lesser Clubmoss</title>
+				<link>//localhost:1313/items/575/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/575/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Golagh and Breesy Hill Special Area of Conservation</title>
+				<link>//localhost:1313/items/355/</link>
+				<pubDate>Tue, 30 Apr 2019 11:37:20 +0000</pubDate>
+				<guid>//localhost:1313/items/355/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Eske and Ardnamona Wood Special Area of Conservation</title>
+				<link>//localhost:1313/items/352/</link>
+				<pubDate>Tue, 30 Apr 2019 11:07:38 +0000</pubDate>
+				<guid>//localhost:1313/items/352/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Nageage Special Area of Conservation</title>
+				<link>//localhost:1313/items/351/</link>
+				<pubDate>Tue, 30 Apr 2019 10:56:24 +0000</pubDate>
+				<guid>//localhost:1313/items/351/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Wild and gloomy loneliness&#34;</title>
+				<link>//localhost:1313/items/197/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/197/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;On prizing up a few loose stones, one exposes heaps of enormous bluebell bulbs, white and skull-like in shape&#34;</title>
+				<link>//localhost:1313/items/148/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/148/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Unconcernedly the Easter sunshine poured down on that scene of desertion and decay&#34;</title>
+				<link>//localhost:1313/items/146/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/146/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

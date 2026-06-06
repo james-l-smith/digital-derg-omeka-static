@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Erenagh on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/erenagh/</link>
+		<description>Recent content in Erenagh on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/erenagh/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Place name of Termon Magrath</title>
+				<link>//localhost:1313/items/492/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/492/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

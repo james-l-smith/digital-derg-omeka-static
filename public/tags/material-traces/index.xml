@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Material Traces on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/material-traces/</link>
+		<description>Recent content in Material Traces on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:57 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/material-traces/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: St. Brigid&#39;s Cross, Station Island</title>
+				<link>//localhost:1313/items/547/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/547/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Location: St. Patrick&#39;s Cross, Station Island</title>
+				<link>//localhost:1313/items/549/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/549/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Location: Tree, Penitential Beds, Station Island</title>
+				<link>//localhost:1313/items/551/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/551/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;The middle of the island looked like the memory Of some village evicted by the Famine&#34;</title>
+				<link>//localhost:1313/items/269/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/269/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

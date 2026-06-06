@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Rhetoric on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/rhetoric/</link>
+		<description>Recent content in Rhetoric on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2019 15:15:54 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/rhetoric/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;Those trackless hills enfold the lake as though to hide it.&#34;</title>
+				<link>//localhost:1313/items/132/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/132/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

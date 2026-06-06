@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Carry Mouth on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/carry-mouth/</link>
+		<description>Recent content in Carry Mouth on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/carry-mouth/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Carry Mouth, Lough Derg</title>
+				<link>//localhost:1313/items/527/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:55 +0000</pubDate>
+				<guid>//localhost:1313/items/527/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>River Derg gazetteer entry</title>
+				<link>//localhost:1313/items/512/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/512/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The northern shore of the lake</title>
+				<link>//localhost:1313/items/31/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/31/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

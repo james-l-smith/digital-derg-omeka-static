@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Eels on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/eels/</link>
+		<description>Recent content in Eels on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 15:34:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/eels/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The fish stocks of Templecarne</title>
+				<link>//localhost:1313/items/571/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/571/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Leslies as landlords</title>
+				<link>//localhost:1313/items/182/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:56 +0000</pubDate>
+				<guid>//localhost:1313/items/182/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fish stocks in the lake</title>
+				<link>//localhost:1313/items/101/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/101/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Interrogating the curse of St. Patrick</title>
+				<link>//localhost:1313/items/30/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/30/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

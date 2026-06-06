@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Barefoot on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/barefoot/</link>
+		<description>Recent content in Barefoot on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/barefoot/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ease of travel to Lough Derg</title>
+				<link>//localhost:1313/items/515/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/515/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Station island gazetteer entry</title>
+				<link>//localhost:1313/items/509/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/509/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The suppression of the pilgrimage</title>
+				<link>//localhost:1313/items/507/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/507/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Jenny crosses to Station Island</title>
+				<link>//localhost:1313/items/257/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:55 +0000</pubDate>
+				<guid>//localhost:1313/items/257/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Lough Derg&#34; by Thomas D&#39;Arcy McGee</title>
+				<link>//localhost:1313/items/212/</link>
+				<pubDate>Mon, 18 Feb 2019 17:25:36 +0000</pubDate>
+				<guid>//localhost:1313/items/212/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Antonio Mannini is rowed to the island</title>
+				<link>//localhost:1313/items/90/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/90/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The stones of Station Island</title>
+				<link>//localhost:1313/items/37/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/37/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey from Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/16/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/16/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Annals of the Four Masters on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/annals-of-the-four-masters/</link>
+		<description>Recent content in Annals of the Four Masters on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/annals-of-the-four-masters/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Place name of Termon Magrath</title>
+				<link>//localhost:1313/items/492/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/492/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1516</title>
+				<link>//localhost:1313/items/399/</link>
+				<pubDate>Tue, 14 May 2019 13:08:01 +0000</pubDate>
+				<guid>//localhost:1313/items/399/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;An ominous cloud appeared in the north&#34;</title>
+				<link>//localhost:1313/items/144/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/144/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The origin of Lough Derg&#39;s name</title>
+				<link>//localhost:1313/items/35/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/35/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sliabh Dubh Holy Well</title>
+				<link>//localhost:1313/items/9/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/9/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

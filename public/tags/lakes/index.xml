@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lakes on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/lakes/</link>
+		<description>Recent content in Lakes on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Apr 2019 08:51:02 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/lakes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The conservation status of the Lough Fad blanket bog to the south-west of Lough Derg</title>
+				<link>//localhost:1313/items/320/</link>
+				<pubDate>Fri, 05 Apr 2019 08:51:02 +0000</pubDate>
+				<guid>//localhost:1313/items/320/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pettigo Plateau Nature Reserve</title>
+				<link>//localhost:1313/items/317/</link>
+				<pubDate>Thu, 04 Apr 2019 15:46:50 +0000</pubDate>
+				<guid>//localhost:1313/items/317/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A poetic vision of Mary</title>
+				<link>//localhost:1313/items/55/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/55/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gerald&#39;s description of purgatory</title>
+				<link>//localhost:1313/items/47/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/47/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The lakes of Ireland</title>
+				<link>//localhost:1313/items/46/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/46/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>St. Patrick&#39;s Cross on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/st.-patricks-cross/</link>
+		<description>Recent content in St. Patrick&#39;s Cross on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:57 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/st.-patricks-cross/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: St. Patrick&#39;s Cross, Station Island</title>
+				<link>//localhost:1313/items/549/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/549/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;A boy was standing like a ballet dancer poised on the rock&#34;</title>
+				<link>//localhost:1313/items/273/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/273/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;The shaft on which this iron cross is set is precious, for it was salvaged from the lake&#34;</title>
+				<link>//localhost:1313/items/163/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/163/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

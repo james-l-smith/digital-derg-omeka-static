@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cardinal Michael Logue on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/cardinal-michael-logue/</link>
+		<description>Recent content in Cardinal Michael Logue on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 14 May 2019 13:08:03 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/cardinal-michael-logue/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Timeline: 1913</title>
+				<link>//localhost:1313/items/443/</link>
+				<pubDate>Tue, 14 May 2019 13:08:03 +0000</pubDate>
+				<guid>//localhost:1313/items/443/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cardinal Michael Logue arrives at Station Island, 1913</title>
+				<link>//localhost:1313/items/242/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:17 +0000</pubDate>
+				<guid>//localhost:1313/items/242/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cardinal Michael Logue boards a boat at the Station Island ferry house, 1913</title>
+				<link>//localhost:1313/items/248/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:17 +0000</pubDate>
+				<guid>//localhost:1313/items/248/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

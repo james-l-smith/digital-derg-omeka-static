@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Derg Beg Island on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/derg-beg-island/</link>
+		<description>Recent content in Derg Beg Island on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/derg-beg-island/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Derg Beg Island, Lough Derg</title>
+				<link>//localhost:1313/items/528/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:55 +0000</pubDate>
+				<guid>//localhost:1313/items/528/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Derg Beg Island Townland</title>
+				<link>//localhost:1313/items/334/</link>
+				<pubDate>Thu, 25 Apr 2019 16:04:18 +0000</pubDate>
+				<guid>//localhost:1313/items/334/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Forty-six small islands</title>
+				<link>//localhost:1313/items/137/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/137/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

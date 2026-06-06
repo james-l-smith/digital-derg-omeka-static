@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>British Library on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/british-library/</link>
+		<description>Recent content in British Library on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Apr 2019 15:14:02 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/british-library/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nautical Chart Of Western Europe, Ca. 1400-1425</title>
+				<link>//localhost:1313/items/360/</link>
+				<pubDate>Tue, 30 Apr 2019 15:14:02 +0000</pubDate>
+				<guid>//localhost:1313/items/360/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Map of Ulster with &#34;Escheated&#34; Counties, 1609</title>
+				<link>//localhost:1313/items/357/</link>
+				<pubDate>Tue, 30 Apr 2019 14:52:49 +0000</pubDate>
+				<guid>//localhost:1313/items/357/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A Coloured Map of Great Britain and Ireland; Drawn on Vellum, in the period 1534-1546</title>
+				<link>//localhost:1313/items/356/</link>
+				<pubDate>Tue, 30 Apr 2019 14:44:27 +0000</pubDate>
+				<guid>//localhost:1313/items/356/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Portuguese portolan chart of Ireland</title>
+				<link>//localhost:1313/items/216/</link>
+				<pubDate>Sun, 17 Mar 2019 18:34:35 +0000</pubDate>
+				<guid>//localhost:1313/items/216/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

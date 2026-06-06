@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Topographical Dictionary on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/topographical-dictionary/</link>
+		<description>Recent content in Topographical Dictionary on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 15:34:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/topographical-dictionary/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Bluestack Mountain</title>
+				<link>//localhost:1313/items/563/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/563/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Geese and Swans on Lough Erne</title>
+				<link>//localhost:1313/items/566/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/566/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rivers Pettigo, Omna and Scillies</title>
+				<link>//localhost:1313/items/567/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/567/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The agriculture of Donegal</title>
+				<link>//localhost:1313/items/564/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/564/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The mineral springs of Donegal</title>
+				<link>//localhost:1313/items/568/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/568/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The mountains of Donegal</title>
+				<link>//localhost:1313/items/562/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/562/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The ruined abbeys of Donegal</title>
+				<link>//localhost:1313/items/565/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:09 +0000</pubDate>
+				<guid>//localhost:1313/items/565/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

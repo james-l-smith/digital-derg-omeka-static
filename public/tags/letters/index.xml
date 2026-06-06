@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Letters on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/letters/</link>
+		<description>Recent content in Letters on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 31 Oct 2019 17:21:08 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/letters/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;An anecdote of the bard Carolan&#34;</title>
+				<link>//localhost:1313/items/610/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:08 +0000</pubDate>
+				<guid>//localhost:1313/items/610/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Of all our Acquo Sanctificato, Lough Derg is the most celebrated&#34;</title>
+				<link>//localhost:1313/items/611/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:08 +0000</pubDate>
+				<guid>//localhost:1313/items/611/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1370</title>
+				<link>//localhost:1313/items/384/</link>
+				<pubDate>Tue, 14 May 2019 13:08:00 +0000</pubDate>
+				<guid>//localhost:1313/items/384/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;In media lacus&#34;</title>
+				<link>//localhost:1313/items/191/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/191/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Though my letters are wild as the mountains in which they were written&#34;</title>
+				<link>//localhost:1313/items/189/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/189/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A 1603 description of Lough Derg</title>
+				<link>//localhost:1313/items/192/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/192/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Davog was a woman?</title>
+				<link>//localhost:1313/items/193/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/193/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fionn Mac Cumhaill and the worm of Lough Derg</title>
+				<link>//localhost:1313/items/194/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/194/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>John O&#39;Donovan catches a cold</title>
+				<link>//localhost:1313/items/190/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/190/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Oral history and facts</title>
+				<link>//localhost:1313/items/188/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/188/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The monster guards a crock of gold</title>
+				<link>//localhost:1313/items/195/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/195/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The salmon of Lough Derg</title>
+				<link>//localhost:1313/items/196/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/196/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pilgrim Road on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/pilgrim-road/</link>
+		<description>Recent content in Pilgrim Road on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 29 Apr 2019 08:41:29 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/pilgrim-road/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Rathnacross Archaeological Survey</title>
+				<link>//localhost:1313/items/341/</link>
+				<pubDate>Mon, 29 Apr 2019 08:41:29 +0000</pubDate>
+				<guid>//localhost:1313/items/341/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Secrets of Templecarne Graveyard</title>
+				<link>//localhost:1313/items/103/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/103/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The approach to the lake</title>
+				<link>//localhost:1313/items/105/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/105/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rathnacross Fairy Fort</title>
+				<link>//localhost:1313/items/6/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/6/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Sliabh Dubh Holy Well</title>
+				<link>//localhost:1313/items/9/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/9/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey from Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/16/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/16/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Rathnacross to Saints Island pilgrim road</title>
+				<link>//localhost:1313/items/7/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/7/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

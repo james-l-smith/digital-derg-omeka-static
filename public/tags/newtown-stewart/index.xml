@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Newtown Stewart on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/newtown-stewart/</link>
+		<description>Recent content in Newtown Stewart on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2020 15:49:37 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/newtown-stewart/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The Confluence of the Derg and Strule</title>
+				<link>//localhost:1313/items/636/</link>
+				<pubDate>Mon, 11 May 2020 15:49:37 +0000</pubDate>
+				<guid>//localhost:1313/items/636/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>River Derg gazetteer entry</title>
+				<link>//localhost:1313/items/512/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/512/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Silver on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/silver/</link>
+		<description>Recent content in Silver on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jan 2019 15:06:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/silver/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The nature of granite outcrops</title>
+				<link>//localhost:1313/items/104/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/104/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Some dark spot in the midst of flowing silver&#34;</title>
+				<link>//localhost:1313/items/71/</link>
+				<pubDate>Thu, 10 Jan 2019 14:41:46 +0000</pubDate>
+				<guid>//localhost:1313/items/71/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

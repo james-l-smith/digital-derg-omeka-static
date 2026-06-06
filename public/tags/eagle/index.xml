@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Eagle on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/eagle/</link>
+		<description>Recent content in Eagle on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:56 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/eagle/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Eagle&#39;s Rock Island, Lough Derg</title>
+				<link>//localhost:1313/items/531/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:56 +0000</pubDate>
+				<guid>//localhost:1313/items/531/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The afforestation of Lough Derg, and its geese</title>
+				<link>//localhost:1313/items/520/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/520/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Sure it&#39;s an aigle!&#34;</title>
+				<link>//localhost:1313/items/201/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/201/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Eagle&#39;s eggs</title>
+				<link>//localhost:1313/items/202/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/202/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Eagles build in the islands of Lough Derg&#34;</title>
+				<link>//localhost:1313/items/176/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:56 +0000</pubDate>
+				<guid>//localhost:1313/items/176/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

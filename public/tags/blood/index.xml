@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blood on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/blood/</link>
+		<description>Recent content in Blood on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/blood/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Situating Lough Derg</title>
+				<link>//localhost:1313/items/488/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/488/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;It was said stone dreams and animal sleeps and man
+is awake&#34;</title>
+				<link>//localhost:1313/items/279/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/279/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;In going there they are answering the call for blood&#34;</title>
+				<link>//localhost:1313/items/159/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/159/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fionn mac Cumhaill escapes the monster&#39;s belly</title>
+				<link>//localhost:1313/items/43/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/43/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Keeronagh, the Devil&#39;s mother</title>
+				<link>//localhost:1313/items/50/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/50/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The origin of Lough Derg&#39;s name</title>
+				<link>//localhost:1313/items/35/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/35/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A story of Ugolino&#39;s death on Station Island</title>
+				<link>//localhost:1313/items/19/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/19/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The coming of the Norsemen</title>
+				<link>//localhost:1313/items/22/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/22/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>St. Patrick&#39;s well at Tullaghan</title>
+				<link>//localhost:1313/items/5/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:53 +0000</pubDate>
+				<guid>//localhost:1313/items/5/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

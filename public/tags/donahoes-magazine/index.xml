@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Donahoe&#39;s Magazine on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/donahoes-magazine/</link>
+		<description>Recent content in Donahoe&#39;s Magazine on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/donahoes-magazine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A boat trip to Saints Island</title>
+				<link>//localhost:1313/items/521/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/521/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Castlederg to Lough Derg</title>
+				<link>//localhost:1313/items/517/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/517/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Donegal Town to Lough Derg</title>
+				<link>//localhost:1313/items/516/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/516/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ease of travel to Lough Derg</title>
+				<link>//localhost:1313/items/515/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/515/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/518/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/518/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The afforestation of Lough Derg, and its geese</title>
+				<link>//localhost:1313/items/520/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/520/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The quality of Lough Derg&#39;s road access</title>
+				<link>//localhost:1313/items/519/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/519/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

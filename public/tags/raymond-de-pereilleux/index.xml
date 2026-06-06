@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Raymond De Pereilleux on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/raymond-de-pereilleux/</link>
+		<description>Recent content in Raymond De Pereilleux on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/raymond-de-pereilleux/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Raymond de Perilleux and Lough Derg</title>
+				<link>//localhost:1313/items/491/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/491/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1397</title>
+				<link>//localhost:1313/items/385/</link>
+				<pubDate>Tue, 14 May 2019 13:08:00 +0000</pubDate>
+				<guid>//localhost:1313/items/385/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Some dark spot in the midst of flowing silver&#34;</title>
+				<link>//localhost:1313/items/71/</link>
+				<pubDate>Thu, 10 Jan 2019 14:41:46 +0000</pubDate>
+				<guid>//localhost:1313/items/71/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

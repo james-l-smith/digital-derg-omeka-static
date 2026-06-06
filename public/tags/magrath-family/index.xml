@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Magrath Family on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/magrath-family/</link>
+		<description>Recent content in Magrath Family on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/magrath-family/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Place name of Termon Magrath</title>
+				<link>//localhost:1313/items/492/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/492/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The History and Suppression of Lough Derg</title>
+				<link>//localhost:1313/items/489/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/489/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1753</title>
+				<link>//localhost:1313/items/415/</link>
+				<pubDate>Tue, 14 May 2019 13:08:02 +0000</pubDate>
+				<guid>//localhost:1313/items/415/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline: 1440</title>
+				<link>//localhost:1313/items/390/</link>
+				<pubDate>Tue, 14 May 2019 13:08:00 +0000</pubDate>
+				<guid>//localhost:1313/items/390/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Termon McGrath Castle and Settlement Archaeological Survey</title>
+				<link>//localhost:1313/items/350/</link>
+				<pubDate>Tue, 30 Apr 2019 10:12:17 +0000</pubDate>
+				<guid>//localhost:1313/items/350/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>From Magrath to Leslie</title>
+				<link>//localhost:1313/items/124/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/124/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

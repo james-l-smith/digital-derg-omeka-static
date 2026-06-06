@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Confession on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/confession/</link>
+		<description>Recent content in Confession on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:08 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/confession/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A 54 page report lifting the suspension of John Goodwin</title>
+				<link>//localhost:1313/items/478/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:08 +0000</pubDate>
+				<guid>//localhost:1313/items/478/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

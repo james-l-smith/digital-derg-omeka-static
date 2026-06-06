@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Commercialism on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/commercialism/</link>
+		<description>Recent content in Commercialism on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Jun 2019 13:45:17 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/commercialism/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;A huge quarry&#34;</title>
+				<link>//localhost:1313/items/453/</link>
+				<pubDate>Wed, 12 Jun 2019 13:45:17 +0000</pubDate>
+				<guid>//localhost:1313/items/453/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The impression of Lough Derg on Jenny and Bobby</title>
+				<link>//localhost:1313/items/256/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:55 +0000</pubDate>
+				<guid>//localhost:1313/items/256/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The waves of the Lough</title>
+				<link>//localhost:1313/items/34/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/34/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The business of ferrying pilgrims to Station Island</title>
+				<link>//localhost:1313/items/11/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/11/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Infrastructure on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/infrastructure/</link>
+		<description>Recent content in Infrastructure on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/infrastructure/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ease of travel to Lough Derg</title>
+				<link>//localhost:1313/items/515/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/515/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/518/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/518/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The business of ferrying pilgrims to Station Island</title>
+				<link>//localhost:1313/items/11/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/11/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

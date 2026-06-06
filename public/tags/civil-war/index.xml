@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Civil War on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/civil-war/</link>
+		<description>Recent content in Civil War on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Apr 2019 10:12:17 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/civil-war/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Termon McGrath Castle and Settlement Archaeological Survey</title>
+				<link>//localhost:1313/items/350/</link>
+				<pubDate>Tue, 30 Apr 2019 10:12:17 +0000</pubDate>
+				<guid>//localhost:1313/items/350/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey of five women returning to Ireland in 1922</title>
+				<link>//localhost:1313/items/160/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/160/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

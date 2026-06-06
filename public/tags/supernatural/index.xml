@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Supernatural on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/supernatural/</link>
+		<description>Recent content in Supernatural on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Jan 2019 14:58:58 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/supernatural/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The March of the Dead Maguires</title>
+				<link>//localhost:1313/items/206/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/206/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>An omen of disaster prior to the 1795 accident</title>
+				<link>//localhost:1313/items/152/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/152/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Water-Horses</title>
+				<link>//localhost:1313/items/120/</link>
+				<pubDate>Tue, 15 Jan 2019 17:10:08 +0000</pubDate>
+				<guid>//localhost:1313/items/120/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Leprechauns and Mermaids</title>
+				<link>//localhost:1313/items/118/</link>
+				<pubDate>Fri, 11 Jan 2019 15:41:58 +0000</pubDate>
+				<guid>//localhost:1313/items/118/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A great thunder</title>
+				<link>//localhost:1313/items/88/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/88/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

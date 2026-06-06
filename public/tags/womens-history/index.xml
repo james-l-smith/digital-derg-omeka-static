@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Women&#39;s History on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/womens-history/</link>
+		<description>Recent content in Women&#39;s History on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:57 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/womens-history/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Women&#39;s Dormitory, Station Island</title>
+				<link>//localhost:1313/items/554/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/554/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;All was as still as death&#34;</title>
+				<link>//localhost:1313/items/291/</link>
+				<pubDate>Wed, 27 Mar 2019 14:42:00 +0000</pubDate>
+				<guid>//localhost:1313/items/291/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Sanctuary, Station Island</title>
+				<link>//localhost:1313/items/222/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:15 +0000</pubDate>
+				<guid>//localhost:1313/items/222/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Davog was a woman?</title>
+				<link>//localhost:1313/items/193/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/193/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey of five women returning to Ireland in 1922</title>
+				<link>//localhost:1313/items/160/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/160/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

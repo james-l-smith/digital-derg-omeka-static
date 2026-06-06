@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Crossing on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/crossing/</link>
+		<description>Recent content in Crossing on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 12 Jun 2019 13:45:17 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/crossing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;A huge quarry&#34;</title>
+				<link>//localhost:1313/items/453/</link>
+				<pubDate>Wed, 12 Jun 2019 13:45:17 +0000</pubDate>
+				<guid>//localhost:1313/items/453/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>John O&#39;Donovan catches a cold</title>
+				<link>//localhost:1313/items/190/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/190/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Antonio Mannini is rowed to the island</title>
+				<link>//localhost:1313/items/90/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/90/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The demon Corna</title>
+				<link>//localhost:1313/items/91/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/91/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The seizure of Purgatory</title>
+				<link>//localhost:1313/items/94/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/94/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Otway muses on the metaphor of birds</title>
+				<link>//localhost:1313/items/39/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/39/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The business of ferrying pilgrims to Station Island</title>
+				<link>//localhost:1313/items/11/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/11/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The ferry to Lough Derg</title>
+				<link>//localhost:1313/items/14/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/14/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

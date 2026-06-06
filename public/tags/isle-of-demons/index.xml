@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Isle of Demons on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/isle-of-demons/</link>
+		<description>Recent content in Isle of Demons on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jan 2019 14:59:40 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/isle-of-demons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;There is a pool or lake saith he in the parts of Ulster that invironeth an Island&#34;</title>
+				<link>//localhost:1313/items/92/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/92/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>How the demons came to Lough Derg</title>
+				<link>//localhost:1313/items/87/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/87/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Island of Swimmers</title>
+				<link>//localhost:1313/items/86/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/86/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

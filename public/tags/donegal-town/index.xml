@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Donegal Town on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/donegal-town/</link>
+		<description>Recent content in Donegal Town on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/donegal-town/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Donegal Town</title>
+				<link>//localhost:1313/items/530/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:55 +0000</pubDate>
+				<guid>//localhost:1313/items/530/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Donegal Town to Lough Derg</title>
+				<link>//localhost:1313/items/516/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/516/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/518/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/518/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The road from Pettigo to Donegal Town</title>
+				<link>//localhost:1313/items/498/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/498/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Hill Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/472/</link>
+				<pubDate>Fri, 21 Jun 2019 14:19:34 +0000</pubDate>
+				<guid>//localhost:1313/items/472/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Meenagarranroe Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/471/</link>
+				<pubDate>Fri, 21 Jun 2019 14:10:06 +0000</pubDate>
+				<guid>//localhost:1313/items/471/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Croaghonagh Bog Special Area of Conservation</title>
+				<link>//localhost:1313/items/353/</link>
+				<pubDate>Tue, 30 Apr 2019 11:18:41 +0000</pubDate>
+				<guid>//localhost:1313/items/353/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Lough Eske and Ardnamona Wood Special Area of Conservation</title>
+				<link>//localhost:1313/items/352/</link>
+				<pubDate>Tue, 30 Apr 2019 11:07:38 +0000</pubDate>
+				<guid>//localhost:1313/items/352/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Donegal Town to Lough Derg</title>
+				<link>//localhost:1313/items/345/</link>
+				<pubDate>Mon, 29 Apr 2019 10:12:21 +0000</pubDate>
+				<guid>//localhost:1313/items/345/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The IRA evacuates from Pettigo</title>
+				<link>//localhost:1313/items/45/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/45/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Underdevelopment on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/underdevelopment/</link>
+		<description>Recent content in Underdevelopment on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2019 15:15:54 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/underdevelopment/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;No road, and not even a defined path, goes around the lake&#34;</title>
+				<link>//localhost:1313/items/131/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/131/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;One of the loneliest places on earth&#34;</title>
+				<link>//localhost:1313/items/130/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/130/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

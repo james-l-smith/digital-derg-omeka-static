@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>St. Patrick&#39;s Bed on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/st.-patricks-bed/</link>
+		<description>Recent content in St. Patrick&#39;s Bed on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/st.-patricks-bed/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The History and Suppression of Lough Derg</title>
+				<link>//localhost:1313/items/489/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/489/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Clogh-oir, the golden stone</title>
+				<link>//localhost:1313/items/457/</link>
+				<pubDate>Wed, 12 Jun 2019 13:45:18 +0000</pubDate>
+				<guid>//localhost:1313/items/457/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

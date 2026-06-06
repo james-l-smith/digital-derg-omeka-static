@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Bog-Myrtle (Myrica Gale) on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/bog-myrtle-myrica-gale/</link>
+		<description>Recent content in Bog-Myrtle (Myrica Gale) on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 21 Jun 2019 14:10:06 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/bog-myrtle-myrica-gale/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Meenagarranroe Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/471/</link>
+				<pubDate>Fri, 21 Jun 2019 14:10:06 +0000</pubDate>
+				<guid>//localhost:1313/items/471/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Cashelnavean Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/470/</link>
+				<pubDate>Fri, 21 Jun 2019 13:59:43 +0000</pubDate>
+				<guid>//localhost:1313/items/470/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Barnesmore Bog Natural Heritage Area</title>
+				<link>//localhost:1313/items/469/</link>
+				<pubDate>Wed, 12 Jun 2019 14:54:36 +0000</pubDate>
+				<guid>//localhost:1313/items/469/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Flora of the Lough Fad blanket bog to the south-west of Lough Derg</title>
+				<link>//localhost:1313/items/321/</link>
+				<pubDate>Fri, 05 Apr 2019 09:09:34 +0000</pubDate>
+				<guid>//localhost:1313/items/321/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

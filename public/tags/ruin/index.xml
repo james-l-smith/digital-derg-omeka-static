@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ruin on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/ruin/</link>
+		<description>Recent content in Ruin on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Jan 2019 14:58:58 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/ruin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A 1603 description of Lough Derg</title>
+				<link>//localhost:1313/items/192/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/192/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Franciscans</title>
+				<link>//localhost:1313/items/150/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/150/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plantation on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/plantation/</link>
+		<description>Recent content in Plantation on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Apr 2019 14:52:49 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/plantation/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Map of Ulster with &#34;Escheated&#34; Counties, 1609</title>
+				<link>//localhost:1313/items/357/</link>
+				<pubDate>Tue, 30 Apr 2019 14:52:49 +0000</pubDate>
+				<guid>//localhost:1313/items/357/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The seizure of Purgatory</title>
+				<link>//localhost:1313/items/94/</link>
+				<pubDate>Thu, 10 Jan 2019 14:59:40 +0000</pubDate>
+				<guid>//localhost:1313/items/94/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

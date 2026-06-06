@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sermon on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/sermon/</link>
+		<description>Recent content in Sermon on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 Mar 2019 14:42:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/sermon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;So far shalt thou go, and no farther, and here shall thy proud waves be stayed&#34;</title>
+				<link>//localhost:1313/items/295/</link>
+				<pubDate>Wed, 27 Mar 2019 14:42:00 +0000</pubDate>
+				<guid>//localhost:1313/items/295/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

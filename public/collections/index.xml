@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Browse collections on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/collections/</link>
+		<description>Recent content in Browse collections on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 26 Oct 2021 12:44:37 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Shane Leslie</title>
+				<link>//localhost:1313/collections/9/</link>
+				<pubDate>Tue, 26 Oct 2021 12:44:37 +0000</pubDate>
+				<guid>//localhost:1313/collections/9/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Alice Curtayne</title>
+				<link>//localhost:1313/collections/8/</link>
+				<pubDate>Thu, 14 Oct 2021 08:55:57 +0000</pubDate>
+				<guid>//localhost:1313/collections/8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Archipelagos</title>
+				<link>//localhost:1313/collections/7/</link>
+				<pubDate>Fri, 29 May 2020 12:52:40 +0000</pubDate>
+				<guid>//localhost:1313/collections/7/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Locations</title>
+				<link>//localhost:1313/collections/6/</link>
+				<pubDate>Fri, 11 Oct 2019 14:22:48 +0000</pubDate>
+				<guid>//localhost:1313/collections/6/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Timeline</title>
+				<link>//localhost:1313/collections/5/</link>
+				<pubDate>Tue, 14 May 2019 13:09:51 +0000</pubDate>
+				<guid>//localhost:1313/collections/5/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Medievalism</title>
+				<link>//localhost:1313/collections/4/</link>
+				<pubDate>Tue, 05 Mar 2019 16:29:39 +0000</pubDate>
+				<guid>//localhost:1313/collections/4/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The 1795 disaster</title>
+				<link>//localhost:1313/collections/3/</link>
+				<pubDate>Fri, 01 Feb 2019 13:42:13 +0000</pubDate>
+				<guid>//localhost:1313/collections/3/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Maps</title>
+				<link>//localhost:1313/collections/2/</link>
+				<pubDate>Thu, 24 Jan 2019 10:20:03 +0000</pubDate>
+				<guid>//localhost:1313/collections/2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Townlands</title>
+				<link>//localhost:1313/collections/1/</link>
+				<pubDate>Fri, 11 Jan 2019 14:23:33 +0000</pubDate>
+				<guid>//localhost:1313/collections/1/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

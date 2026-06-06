@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Public Record Office of Northern Ireland on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/public-record-office-of-northern-ireland/</link>
+		<description>Recent content in Public Record Office of Northern Ireland on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:08 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/public-record-office-of-northern-ireland/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Letter, James Hamilton Jnr, Strabane, Co. Tyrone, to [Marquess of Abercorn, London]</title>
+				<link>//localhost:1313/items/475/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:08 +0000</pubDate>
+				<guid>//localhost:1313/items/475/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Letter, James Hamilton Jnr, Strabane, Co. Tyrone, to Marquess of Abercorn, General Post Office, Dublin. (To be forwarded).</title>
+				<link>//localhost:1313/items/476/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:08 +0000</pubDate>
+				<guid>//localhost:1313/items/476/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>County Monaghan on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/county-monaghan/</link>
+		<description>Recent content in County Monaghan on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 15:34:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/county-monaghan/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The bogs of Templecarne</title>
+				<link>//localhost:1313/items/572/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/572/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Location: Glaslough</title>
+				<link>//localhost:1313/items/534/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:56 +0000</pubDate>
+				<guid>//localhost:1313/items/534/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Leslies of Glaslough</title>
+				<link>//localhost:1313/items/506/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/506/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The snake of Lough Patrick and Lough Peter</title>
+				<link>//localhost:1313/items/119/</link>
+				<pubDate>Fri, 11 Jan 2019 15:58:56 +0000</pubDate>
+				<guid>//localhost:1313/items/119/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

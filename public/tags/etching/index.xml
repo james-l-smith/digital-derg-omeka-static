@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Etching on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/etching/</link>
+		<description>Recent content in Etching on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Jul 2019 10:41:51 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/etching/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A Map of the Island of Purgatory</title>
+				<link>//localhost:1313/items/473/</link>
+				<pubDate>Tue, 30 Jul 2019 10:41:51 +0000</pubDate>
+				<guid>//localhost:1313/items/473/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pilgrims being transported to Station Island on Lough Derg</title>
+				<link>//localhost:1313/items/2/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:53 +0000</pubDate>
+				<guid>//localhost:1313/items/2/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Saints Island on Lough Derg</title>
+				<link>//localhost:1313/items/3/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:53 +0000</pubDate>
+				<guid>//localhost:1313/items/3/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

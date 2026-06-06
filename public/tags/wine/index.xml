@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Wine on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/wine/</link>
+		<description>Recent content in Wine on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gazetteer description of the pilgrim crossing</title>
+				<link>//localhost:1313/items/511/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/511/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The boatmen describes the &#34;wine&#34; of Purgatory</title>
+				<link>//localhost:1313/items/505/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/505/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The &#34;wine&#34; of Station Island</title>
+				<link>//localhost:1313/items/38/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/38/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The origin of Lough Derg&#39;s name</title>
+				<link>//localhost:1313/items/35/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/35/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drinking the &#34;wine&#34; of Lough Derg</title>
+				<link>//localhost:1313/items/18/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/18/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tradition on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/tradition/</link>
+		<description>Recent content in Tradition on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Mar 2019 09:40:17 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/tradition/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Boat keel on Station Island</title>
+				<link>//localhost:1313/items/247/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:17 +0000</pubDate>
+				<guid>//localhost:1313/items/247/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Station Island Boiler</title>
+				<link>//localhost:1313/items/246/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:17 +0000</pubDate>
+				<guid>//localhost:1313/items/246/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Lough Derg&#34; by Thomas D&#39;Arcy McGee</title>
+				<link>//localhost:1313/items/212/</link>
+				<pubDate>Mon, 18 Feb 2019 17:25:36 +0000</pubDate>
+				<guid>//localhost:1313/items/212/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Oral history and facts</title>
+				<link>//localhost:1313/items/188/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/188/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Oh Fare Thee Well, Lough Derg&#34;</title>
+				<link>//localhost:1313/items/127/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/127/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Those trackless hills enfold the lake as though to hide it.&#34;</title>
+				<link>//localhost:1313/items/132/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/132/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Tradition, when jealously guarded and carefully handed down is a reliable source of information&#34;</title>
+				<link>//localhost:1313/items/128/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/128/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Avignon on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/avignon/</link>
+		<description>Recent content in Avignon on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 31 Oct 2019 17:21:08 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/avignon/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;And there I embarked and crossed to Calais&#34;</title>
+				<link>//localhost:1313/items/607/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:08 +0000</pubDate>
+				<guid>//localhost:1313/items/607/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ramón de Perellós sets off for Saint Patrick&#39;s Purgatory</title>
+				<link>//localhost:1313/items/585/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/585/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

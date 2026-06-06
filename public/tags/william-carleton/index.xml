@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>William Carleton on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/william-carleton/</link>
+		<description>Recent content in William Carleton on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 14 May 2019 13:08:02 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/william-carleton/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Timeline: 1820</title>
+				<link>//localhost:1313/items/423/</link>
+				<pubDate>Tue, 14 May 2019 13:08:02 +0000</pubDate>
+				<guid>//localhost:1313/items/423/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The call to prison</title>
+				<link>//localhost:1313/items/57/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/57/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Unimpressed by Lough Derg</title>
+				<link>//localhost:1313/items/26/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/26/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Movement of Purgatory on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/movement-of-purgatory/</link>
+		<description>Recent content in Movement of Purgatory on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 23 Jan 2019 14:58:58 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/movement-of-purgatory/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;In media lacus&#34;</title>
+				<link>//localhost:1313/items/191/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/191/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The movement of Purgatory</title>
+				<link>//localhost:1313/items/56/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/56/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

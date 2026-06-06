@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Castlederg on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/castlederg/</link>
+		<description>Recent content in Castlederg on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/castlederg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: Castlederg</title>
+				<link>//localhost:1313/items/526/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:55 +0000</pubDate>
+				<guid>//localhost:1313/items/526/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Castlederg to Lough Derg</title>
+				<link>//localhost:1313/items/517/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/517/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/518/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:10 +0000</pubDate>
+				<guid>//localhost:1313/items/518/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Castlederg to Lough Derg Pilgrim Path</title>
+				<link>//localhost:1313/items/346/</link>
+				<pubDate>Mon, 29 Apr 2019 10:53:11 +0000</pubDate>
+				<guid>//localhost:1313/items/346/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey of five women returning to Ireland in 1922</title>
+				<link>//localhost:1313/items/160/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/160/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

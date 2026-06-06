@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cauldron on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/cauldron/</link>
+		<description>Recent content in Cauldron on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Mar 2019 09:40:17 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/cauldron/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Station Island Boiler</title>
+				<link>//localhost:1313/items/246/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:17 +0000</pubDate>
+				<guid>//localhost:1313/items/246/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Occasional freakish summer storms&#34;</title>
+				<link>//localhost:1313/items/155/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/155/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Drinking the &#34;wine&#34; of Lough Derg</title>
+				<link>//localhost:1313/items/18/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/18/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

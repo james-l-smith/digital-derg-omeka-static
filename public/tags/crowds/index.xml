@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Crowds on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/crowds/</link>
+		<description>Recent content in Crowds on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 Mar 2019 14:42:00 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/crowds/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;A miracle! - A miracle!&#34;</title>
+				<link>//localhost:1313/items/287/</link>
+				<pubDate>Wed, 27 Mar 2019 14:42:00 +0000</pubDate>
+				<guid>//localhost:1313/items/287/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;I at length reached the goal of my long-nourished desire&#34;</title>
+				<link>//localhost:1313/items/290/</link>
+				<pubDate>Wed, 27 Mar 2019 14:42:00 +0000</pubDate>
+				<guid>//localhost:1313/items/290/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;The pilgrims throng the shore opposite to the island&#34;</title>
+				<link>//localhost:1313/items/286/</link>
+				<pubDate>Wed, 27 Mar 2019 14:42:00 +0000</pubDate>
+				<guid>//localhost:1313/items/286/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Photograph of a crowd at the Ferry House, Lough Derg, Co. Donegal</title>
+				<link>//localhost:1313/items/220/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:15 +0000</pubDate>
+				<guid>//localhost:1313/items/220/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;All around it is the glint and stir of water&#34;</title>
+				<link>//localhost:1313/items/167/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/167/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Recited in the open, while facing the airy spaciousness of mountain, sky and water&#34;</title>
+				<link>//localhost:1313/items/164/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/164/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The approach to the lake</title>
+				<link>//localhost:1313/items/105/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/105/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The business of ferrying pilgrims to Station Island</title>
+				<link>//localhost:1313/items/11/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/11/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The ferry to Lough Derg</title>
+				<link>//localhost:1313/items/14/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/14/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

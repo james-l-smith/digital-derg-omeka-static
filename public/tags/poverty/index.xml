@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Poverty on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/poverty/</link>
+		<description>Recent content in Poverty on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Mar 2019 10:32:56 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/poverty/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;The little islands of Pan held in the crooked elbow of the lake&#34;</title>
+				<link>//localhost:1313/items/271/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/271/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Three boatloads of Dublin’s unemployed came in&#34;</title>
+				<link>//localhost:1313/items/275/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/275/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;They come to Lough Derg to fast and pray and beg&#34;</title>
+				<link>//localhost:1313/items/263/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:55 +0000</pubDate>
+				<guid>//localhost:1313/items/263/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Women and men in bare feet turn again&#34;</title>
+				<link>//localhost:1313/items/266/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:55 +0000</pubDate>
+				<guid>//localhost:1313/items/266/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Burials on Friars&#39; Island, in Templecarne, and further away</title>
+				<link>//localhost:1313/items/154/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/154/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

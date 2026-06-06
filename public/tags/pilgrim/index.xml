@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pilgrim on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/pilgrim/</link>
+		<description>Recent content in Pilgrim on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 Mar 2019 09:40:16 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/pilgrim/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A rower and Station Island with detail of rocks and water</title>
+				<link>//localhost:1313/items/230/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:16 +0000</pubDate>
+				<guid>//localhost:1313/items/230/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The penitential beds with lake in background</title>
+				<link>//localhost:1313/items/232/</link>
+				<pubDate>Fri, 22 Mar 2019 09:40:16 +0000</pubDate>
+				<guid>//localhost:1313/items/232/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>John O&#39;Donovan catches a cold</title>
+				<link>//localhost:1313/items/190/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/190/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>An omen of disaster prior to the 1795 accident</title>
+				<link>//localhost:1313/items/152/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/152/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The 1795 disaster</title>
+				<link>//localhost:1313/items/151/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/151/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Oh Fare Thee Well, Lough Derg&#34;</title>
+				<link>//localhost:1313/items/127/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/127/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;The Chair stands out sharply against the vandyke brown of hibernating heathers and the orange of wilted bracken&#34;</title>
+				<link>//localhost:1313/items/143/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/143/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

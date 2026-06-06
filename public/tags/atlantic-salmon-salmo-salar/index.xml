@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Atlantic Salmon (Salmo Salar) on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/atlantic-salmon-salmo-salar/</link>
+		<description>Recent content in Atlantic Salmon (Salmo Salar) on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Apr 2019 11:07:38 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/atlantic-salmon-salmo-salar/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Lough Eske and Ardnamona Wood Special Area of Conservation</title>
+				<link>//localhost:1313/items/352/</link>
+				<pubDate>Tue, 30 Apr 2019 11:07:38 +0000</pubDate>
+				<guid>//localhost:1313/items/352/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The conservation status of the Lough Fad blanket bog to the south-west of Lough Derg</title>
+				<link>//localhost:1313/items/320/</link>
+				<pubDate>Fri, 05 Apr 2019 08:51:02 +0000</pubDate>
+				<guid>//localhost:1313/items/320/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Waterlife, flora and fauna of the Lough Fad blanket bog to the south-west of Lough Derg</title>
+				<link>//localhost:1313/items/319/</link>
+				<pubDate>Fri, 05 Apr 2019 08:35:16 +0000</pubDate>
+				<guid>//localhost:1313/items/319/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The presence of Arctic Char in the lake in the 1990s</title>
+				<link>//localhost:1313/items/316/</link>
+				<pubDate>Thu, 04 Apr 2019 15:38:00 +0000</pubDate>
+				<guid>//localhost:1313/items/316/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The salmon of Lough Derg</title>
+				<link>//localhost:1313/items/196/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/196/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fish stocks in the lake</title>
+				<link>//localhost:1313/items/101/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/101/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Interrogating the curse of St. Patrick</title>
+				<link>//localhost:1313/items/30/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/30/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historical Traditions</title>
+				<link>//localhost:1313/items/4/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:53 +0000</pubDate>
+				<guid>//localhost:1313/items/4/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

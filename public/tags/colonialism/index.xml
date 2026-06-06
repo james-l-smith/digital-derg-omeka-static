@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Colonialism on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/colonialism/</link>
+		<description>Recent content in Colonialism on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 30 Apr 2019 14:52:49 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/colonialism/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Map of Ulster with &#34;Escheated&#34; Counties, 1609</title>
+				<link>//localhost:1313/items/357/</link>
+				<pubDate>Tue, 30 Apr 2019 14:52:49 +0000</pubDate>
+				<guid>//localhost:1313/items/357/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;I do not think even Paddy could do much in protecting this lake&#34;</title>
+				<link>//localhost:1313/items/204/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/204/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;In nine cases out of ten, the legend is simply an attempt made by an unlettered, but imaginative people, to account for natural appearances by supernatural agency&#34;</title>
+				<link>//localhost:1313/items/205/</link>
+				<pubDate>Wed, 23 Jan 2019 14:58:58 +0000</pubDate>
+				<guid>//localhost:1313/items/205/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

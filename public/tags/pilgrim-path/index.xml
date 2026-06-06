@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pilgrim Path on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/pilgrim-path/</link>
+		<description>Recent content in Pilgrim Path on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 08 May 2020 11:44:34 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/pilgrim-path/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>St Patrick&#39;s Well, Magherakeel</title>
+				<link>//localhost:1313/items/635/</link>
+				<pubDate>Fri, 08 May 2020 11:44:34 +0000</pubDate>
+				<guid>//localhost:1313/items/635/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Templecarn Graveyard Archaeological Survey</title>
+				<link>//localhost:1313/items/347/</link>
+				<pubDate>Mon, 29 Apr 2019 14:02:15 +0000</pubDate>
+				<guid>//localhost:1313/items/347/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Castlederg to Lough Derg Pilgrim Path</title>
+				<link>//localhost:1313/items/346/</link>
+				<pubDate>Mon, 29 Apr 2019 10:53:11 +0000</pubDate>
+				<guid>//localhost:1313/items/346/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Donegal Town to Lough Derg</title>
+				<link>//localhost:1313/items/345/</link>
+				<pubDate>Mon, 29 Apr 2019 10:12:21 +0000</pubDate>
+				<guid>//localhost:1313/items/345/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Secrets of Templecarne Graveyard</title>
+				<link>//localhost:1313/items/103/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/103/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The approach to the lake</title>
+				<link>//localhost:1313/items/105/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/105/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The nature of granite outcrops</title>
+				<link>//localhost:1313/items/104/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/104/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The ruins of Saints Island</title>
+				<link>//localhost:1313/items/108/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:00 +0000</pubDate>
+				<guid>//localhost:1313/items/108/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>St. Dabheoc&#39;s Seat and the old pilgrim road</title>
+				<link>//localhost:1313/items/29/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/29/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

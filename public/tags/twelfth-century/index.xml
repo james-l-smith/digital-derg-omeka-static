@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Twelfth Century on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/twelfth-century/</link>
+		<description>Recent content in Twelfth Century on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jan 2019 10:25:56 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/twelfth-century/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gerald&#39;s description of purgatory</title>
+				<link>//localhost:1313/items/47/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/47/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The lakes of Ireland</title>
+				<link>//localhost:1313/items/46/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/46/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The lough in the twelfth century</title>
+				<link>//localhost:1313/items/24/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/24/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A story of Ugolino&#39;s death on Station Island</title>
+				<link>//localhost:1313/items/19/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/19/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The Augustinians</title>
+				<link>//localhost:1313/items/23/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/23/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lake Crossing on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/lake-crossing/</link>
+		<description>Recent content in Lake Crossing on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2019 15:15:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/lake-crossing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;Occasional freakish summer storms&#34;</title>
+				<link>//localhost:1313/items/155/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/155/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The sanctity of Lough Derg</title>
+				<link>//localhost:1313/items/85/</link>
+				<pubDate>Thu, 10 Jan 2019 14:57:13 +0000</pubDate>
+				<guid>//localhost:1313/items/85/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;Some dark spot in the midst of flowing silver&#34;</title>
+				<link>//localhost:1313/items/71/</link>
+				<pubDate>Thu, 10 Jan 2019 14:41:46 +0000</pubDate>
+				<guid>//localhost:1313/items/71/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pilgrims being transported to Station Island on Lough Derg</title>
+				<link>//localhost:1313/items/2/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:53 +0000</pubDate>
+				<guid>//localhost:1313/items/2/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

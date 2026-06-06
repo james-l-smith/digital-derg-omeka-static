@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Disappointment on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/disappointment/</link>
+		<description>Recent content in Disappointment on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/disappointment/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>A disappointed description of Station Island</title>
+				<link>//localhost:1313/items/500/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/500/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The ugly terrain of Lough Derg</title>
+				<link>//localhost:1313/items/501/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/501/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;You will find instead only stumps, bumps, and conquering armies of weeds, cruel in their strength&#34;</title>
+				<link>//localhost:1313/items/147/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/147/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Unimpressed by Lough Derg</title>
+				<link>//localhost:1313/items/26/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:55 +0000</pubDate>
+				<guid>//localhost:1313/items/26/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

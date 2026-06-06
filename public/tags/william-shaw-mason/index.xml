@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>William Shaw Mason on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/william-shaw-mason/</link>
+		<description>Recent content in William Shaw Mason on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 15:34:10 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/william-shaw-mason/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The bogs of Templecarne</title>
+				<link>//localhost:1313/items/572/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/572/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The cultivation of Templecarne</title>
+				<link>//localhost:1313/items/569/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/569/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The fish stocks of Templecarne</title>
+				<link>//localhost:1313/items/571/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/571/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The metals of Templecarne</title>
+				<link>//localhost:1313/items/573/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/573/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The rivers of Templecarne</title>
+				<link>//localhost:1313/items/570/</link>
+				<pubDate>Wed, 09 Oct 2019 15:34:10 +0000</pubDate>
+				<guid>//localhost:1313/items/570/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

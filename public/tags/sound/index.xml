@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Sound on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/sound/</link>
+		<description>Recent content in Sound on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2019 15:15:55 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/sound/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;A fantastic display of lightning which continued for nearly two hours&#34;</title>
+				<link>//localhost:1313/items/157/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/157/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;All around it is the glint and stir of water&#34;</title>
+				<link>//localhost:1313/items/167/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:55 +0000</pubDate>
+				<guid>//localhost:1313/items/167/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;We seemed to stand in a dim place where two worlds meet&#34;</title>
+				<link>//localhost:1313/items/113/</link>
+				<pubDate>Thu, 10 Jan 2019 15:06:01 +0000</pubDate>
+				<guid>//localhost:1313/items/113/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

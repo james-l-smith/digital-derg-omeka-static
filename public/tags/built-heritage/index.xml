@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Built Heritage on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/built-heritage/</link>
+		<description>Recent content in Built Heritage on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 09 Oct 2019 12:18:57 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/built-heritage/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Location: St. Mary&#39;s Church, Station Island</title>
+				<link>//localhost:1313/items/548/</link>
+				<pubDate>Wed, 09 Oct 2019 12:18:57 +0000</pubDate>
+				<guid>//localhost:1313/items/548/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>A disappointed description of Station Island</title>
+				<link>//localhost:1313/items/500/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/500/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Templecarne Graveyard, County Donegal</title>
+				<link>//localhost:1313/items/210/</link>
+				<pubDate>Fri, 01 Feb 2019 16:55:37 +0000</pubDate>
+				<guid>//localhost:1313/items/210/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

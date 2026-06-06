@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Thyraeus on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/thyraeus/</link>
+		<description>Recent content in Thyraeus on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jan 2019 14:57:13 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/thyraeus/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;The fame of that place has been so scattered through European parts that it seems to go on wings&#34;</title>
+				<link>//localhost:1313/items/81/</link>
+				<pubDate>Thu, 10 Jan 2019 14:57:13 +0000</pubDate>
+				<guid>//localhost:1313/items/81/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

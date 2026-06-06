@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Marquess of Abercorn on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/marquess-of-abercorn/</link>
+		<description>Recent content in Marquess of Abercorn on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:08 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/marquess-of-abercorn/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Letter, Robert Jamison, Baronscourt, to [Marquess of Abercorn, London].</title>
+				<link>//localhost:1313/items/477/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:08 +0000</pubDate>
+				<guid>//localhost:1313/items/477/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

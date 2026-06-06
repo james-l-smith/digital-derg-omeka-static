@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Philip Dixon Hardy on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/philip-dixon-hardy/</link>
+		<description>Recent content in Philip Dixon Hardy on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 10 Jan 2019 10:25:56 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/philip-dixon-hardy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>The movement of Purgatory</title>
+				<link>//localhost:1313/items/56/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:56 +0000</pubDate>
+				<guid>//localhost:1313/items/56/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Full immersion at the water station</title>
+				<link>//localhost:1313/items/10/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/10/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Saint Bridget&#39;s Chair</title>
+				<link>//localhost:1313/items/8/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The business of ferrying pilgrims to Station Island</title>
+				<link>//localhost:1313/items/11/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/11/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The journey from Pettigo to Lough Derg</title>
+				<link>//localhost:1313/items/16/</link>
+				<pubDate>Thu, 10 Jan 2019 10:25:54 +0000</pubDate>
+				<guid>//localhost:1313/items/16/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

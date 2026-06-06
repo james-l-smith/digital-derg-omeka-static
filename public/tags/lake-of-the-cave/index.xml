@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lake of the Cave on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/lake-of-the-cave/</link>
+		<description>Recent content in Lake of the Cave on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 16 Jan 2019 15:15:54 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/lake-of-the-cave/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>&#34;Lake of the Grouse&#34;?</title>
+				<link>//localhost:1313/items/136/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/136/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fair Lake, Lake of the Cave, Red Lake</title>
+				<link>//localhost:1313/items/122/</link>
+				<pubDate>Wed, 16 Jan 2019 15:15:54 +0000</pubDate>
+				<guid>//localhost:1313/items/122/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

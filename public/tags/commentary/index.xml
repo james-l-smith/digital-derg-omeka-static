@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Commentary on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/commentary/</link>
+		<description>Recent content in Commentary on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 31 Jul 2019 15:00:09 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/commentary/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Raymond de Perilleux and Lough Derg</title>
+				<link>//localhost:1313/items/491/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/491/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Situating Lough Derg</title>
+				<link>//localhost:1313/items/488/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/488/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The History and Suppression of Lough Derg</title>
+				<link>//localhost:1313/items/489/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/489/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>The O&#39;Donnells and Lough Derg</title>
+				<link>//localhost:1313/items/490/</link>
+				<pubDate>Wed, 31 Jul 2019 15:00:09 +0000</pubDate>
+				<guid>//localhost:1313/items/490/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>&#34;The turnips were a-sowing in the fields around Pettigo&#34;</title>
+				<link>//localhost:1313/items/277/</link>
+				<pubDate>Fri, 22 Mar 2019 10:32:56 +0000</pubDate>
+				<guid>//localhost:1313/items/277/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>County Cork on Digital Derg: A Deep Map</title>
+		<link>//localhost:1313/tags/county-cork/</link>
+		<description>Recent content in County Cork on Digital Derg: A Deep Map</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 31 Oct 2019 17:21:06 +0000</lastBuildDate>
+		
+			<atom:link href="//localhost:1313/tags/county-cork/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Laurent Vital hears of a pilgrimage to Donegal</title>
+				<link>//localhost:1313/items/582/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/582/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Laurent Vital hears of a pilgrimage to Donegal</title>
+				<link>//localhost:1313/items/583/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/583/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Laurent Vital hears of a pilgrimage to Donegal</title>
+				<link>//localhost:1313/items/584/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/584/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Laurent Vital learns of Purgatory in Kinsale</title>
+				<link>//localhost:1313/items/581/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/581/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Preface to Laurent Vital&#39;s visit to Kinsale in Ireland</title>
+				<link>//localhost:1313/items/580/</link>
+				<pubDate>Thu, 31 Oct 2019 17:21:06 +0000</pubDate>
+				<guid>//localhost:1313/items/580/</guid>
+				<description></description>
+			</item>
+	</channel>
+</rss>
